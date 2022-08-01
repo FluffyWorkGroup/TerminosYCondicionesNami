@@ -1,28 +1,28 @@
 # Términos de servicio de Nami
 
-Ultima actualización: 1 de agosto del 2022.
+Ultima actualización: 2 de agosto del 2022.
 
 ### Definiciones
 
-- Con la palabra ***`app(s)`*** se refiere a todas las instancias de los usuarios de [Nami](https://discord.com/users/747612596982513724), [Nami Beta](https://discord.com/users/792560073356476426) dentro de la plataforma de Discord, así como aparte hace hincapié a todas las apps ya sean bases de datos, la API, así como la página web de Nami, está dependiendo del caso o/y contexto que se le sé al futuro texto.
+- Con la palabra ***`app(s)`*** se refiere a todas las instancias de los usuarios de [Nami](https://discord.com/users/747612596982513724), [Nami Beta](https://discord.com/users/792560073356476426) dentro de la plataforma de Discord, así como aparte hace hincapié a todas las plataformas de Nami como lo pueden ser las páginas webs, bases de datos, APIS, frameworks, y todo el software que se encuentre dentro del nombre de Nami o de Kisu.
 
-- Con la palabra ***`Nami`*** se da a conocer la identidad o el nombre principal de todas las apps, que se dan bajo el copyright del nombre de Nami, este nombre es inmutable y no es variable dependiendo del texto/situación.
+- Con la palabra ***`Nami`*** se hace referencia a la identidad o el nombre principal de todas las apps, que se dan bajo el copyright del nombre de Nami, este nombre es inmutable y no es variable dependiendo del texto/situación.
 
-- Con la palabra ***`código`*** se hace referencia a todo el código fuente o interno de las presentes apps.
+- Con la palabra ***`código`*** se hace referencia a todo el codigo fuente, ya sea privado o público, este tomará esta palabra como referencia sin importar el tipo de vista que tenga.
 
 - Con las palabra ***`usuario(s)`*** se hace referencia a todos los presentes individuos registrados en la base de datos de cualquiera de todas las apps, contando con una tabla dentro de la base de datos para ser contado como uno.
 
 - Con las palabra ***`servidor/servidores`*** se hace referencia a las comunidades instanciadas dentro de la plataforma de Discord Inc.
 
-- Con la palabra ***`bot`*** se hace referencia a cualquiera de las estancias de los usuarios de [Nami](https://discord.com/users/747612596982513724), [Nami Beta](https://discord.com/users/792560073356476426) dentro de la plataforma de Discord Inc.
+- Con la palabra ***`bot(s)`*** se hace referencia a cualquiera de las estancias de los usuarios de [Nami](https://discord.com/users/747612596982513724), [Nami Beta](https://discord.com/users/792560073356476426) dentro de la plataforma de Discord Inc de forma independiente o colectiva.
 
-- Con la palabra ***`visitante(s)`*** se hace referencia a aquel individuo que no forma parte de la base de datos de Nami, pero comparte servidores con esta misma, así como la persona que visite la API, sitio web de Nami o documentación de Nami sin no tener algún registro en la base de datos.
+- Con la palabra ***`visitante(s)`*** se hace referencia a aquel individuo que no forma parte de la base de datos de Nami, pero comparte servidores con esta misma, así como la persona que visite la API, sitio web de Nami o documentación de Nami sin cumplir las condiciones de un usuario.
 
-- Con las palabras ***`desarrolladores / programadores / staff`*** se hace referencia a las personas que han contribuido ya sea mediante cambios en el código interno de cualquiera de las apps de Nami, los servidores de soporte de Nami, o así sea personas que han contribuido a la imagen pública de Nami (imagen, recomendaciones o configuración)
+- Con las palabras ***`desarrolladores / programadores / staff`*** se hace referencia a las personas que han contribuido ya sea mediante cambios en el código interno de cualquiera de las apps de Nami, los servidores de soporte de Nami, o así sea personas que han contribuido a la imagen pública de Nami (imagen, recomendaciones o configuración).
 
 - Con la frase ***`staff de alto rango`*** se hace referencia a cualquier staff en la que su contribución como staff ha sido muy activa por lo cual tiene un rol más alto dentro del staff de Nami, por lo cual este tiene más decisión administrativa dentro de los usuarios dentro del staff, así como los usuarios y visitantes.
 
-- Con las palabras ***`cuenta(s)`*** se hace referencia a la cuenta del usuario referenciada en las tablas de bases de datos.
+- Con las palabras ***`cuenta(s)`*** se hace referencia a la cuenta del usuario referenciada en las tablas de bases de datos o a su cuenta dentro de la plataforma de Discord Inc.
 
 - Con la palabra ***`ticket`*** se hace referencia a la acción del usuario de abrir mediante un sistema de terceros, un apartado donde este pueda dar a conocer sus dudas todo esto bajo la plataforma de Discord.
 
@@ -32,11 +32,11 @@ Ultima actualización: 1 de agosto del 2022.
 
 Estos términos dan a entender las limitaciones y garantías que tiene el usuario o staff de Nami, así como las responsabilidades que tiene con respecto a los usuarios y visitantes de Nami.
 
-Se recomienda leer con detenimiento, por lo cual queda especificado que en este documento exclusivamente se verán las condiciones de servicio y sus términos en este presente documento.
+Se recomienda leer con detenimiento, por lo cual queda especificado que en este documento exclusivamente se verán las condiciones de servicio y sus términos en este presente documento, cualquier duda o respuesta puede comunicarse con el staff de Nami abriendo un ticket.
 
 Estos términos son válidos para cualquier usuario, visitante, desarrollador, programador o cualquier integrante del staff de Nami, y son completamente inmutables en todo sentido para cualquier persona, sea la relación de la persona o su rol en Nami, este debe de respetar todos los lineamientos puestos en estos presentes términos.
 
-El usuario al usar apps de Nami acepta estos términos, y su [Tratamiento de datos](*)
+El usuario al usar apps de Nami acepta estos términos, y su [Tratamiento de Datos bajo los Términos de Privacidad de Nami](*) dentro de estas propias apps.
 
 ### Sanciones y terminación del servicio.
 Nosotros podemos suspender o terminar el servicio inmediatamente para cualquier usuario o visitante, sin notificación alguna o con una notificación previa por cualquier razón, incluyendo una violación en cualquier cláusula de nuestros términos de servicio.
@@ -45,7 +45,7 @@ Todas las disposiciones de los Términos que, por su naturaleza, deban sobrevivi
 limitaciones de responsabilidad.
 
 ### El contenido
-Nami permite bajo ciertos comandos, o configuraciones personalizadas, subir contenido que se hostea en nuestros propios servidores, aunque este contenido este bajo nuestros servidores, nosotros no tenemos ninguna responsabilidad, esta recae en la responsabilidad y reglamento de los usuarios que suban este debido contenido. Todo el contenido que no cumpla con los [Términos y condiciones de Discord](https://discord.com/terms) darán en la terminación inmediata de la cuenta del usuario.
+Nami permite bajo ciertos comandos, o configuraciones personalizadas, subir contenido que se hostea en nuestros propios servidores, aunque este contenido este bajo nuestros servidores, nosotros no tenemos ninguna responsabilidad, esta recae en la responsabilidad y reglamento de los usuarios que suban este debido contenido. Todo el contenido que no cumpla con los [Términos y Condiciones de Discord](https://discord.com/terms) darán en la terminación inmediata de la cuenta del usuario.
 
 ### Indemnización
 Usted acepta indemnizar y eximir de responsabilidad a Nami, sus afiliados, funcionarios, agentes, empleados, contratistas y socios por y contra todos los reclamos, responsabilidades, daños (reales y consecuentes), pérdidas y gastos (incluidos los honorarios de abogados) que surjan de cualquier reclamo de terceros relacionado con (a) su uso de los Servicios (incluidas las acciones realizadas por un tercero utilizando su cuenta) y (b) su violación de estos Términos. En el caso de tal reclamo, juicio o acción ("Reclamo"), enviaremos un aviso del Reclamo a la información de contacto que tenemos para su cuenta (siempre que la falta de entrega de dicho aviso no elimine o reduzca su indemnización).
@@ -98,7 +98,7 @@ El usuario utilizará y se asegurará de que todos los usuarios autorizados util
 
 ### 4. Acceso a tus datos.
 
-Todas las políticas de privacidad se encuentran en el [acuerdo de privacidad del usuario final](*).
+Todas las políticas de privacidad se encuentran en los [Términos de Privacidad de Nami](*).
 
 ### 5. Confidencialidad
 
@@ -124,7 +124,7 @@ El usuario será el propietario de todos los derechos, títulos e intereses sobr
 
 ##### 6.2 Datos del usuario e información del proveedor Licencia.
 
-Todos estos datos se encuentran en el [acuerdo de privacidad del usuario final]("*")
+Todos estos datos se encuentran en los [Términos de Privacidad de Nami]("*")
 
 ##### 6.3 Ningún otro derecho.
 
@@ -148,7 +148,7 @@ El equipo de Nami declara y garantiza que prestará los Servicios Profesionales 
 Todas las disputas legales serán respecto a todas las leyes de Santiago, Chile.
 
 ### 10. Seguridad.
-Todos estos datos podrán ser encontrados en la [Política de Seguridad](*)
+Todos estos datos podrán ser encontrados en la [Política de Seguridad de Nami](*)
 
 ### 11. Fuerzas mayores.
 El equipo de Nami no es responsable de los retrasos o fallas en el desempeño por cualquier causa fuera de su control, incluidos, entre otros, actos de Dios, cambios en la ley o los reglamentos, embargos, guerra, actos terroristas, actos u omisiones de proveedores de tecnología de terceros, disturbios, incendios, terremotos, inundaciones, cortes de energía, huelgas, condiciones climáticas o actos de piratas informáticos, proveedores de servicios de Internet o cualquier otro tercero o actos u omisiones del usuario o cualquier staff.
