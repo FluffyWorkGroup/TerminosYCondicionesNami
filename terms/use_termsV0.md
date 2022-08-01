@@ -112,7 +112,7 @@ Sin perjuicio de cualquier disposición en contrario contenida en el presente, l
 
 ##### 5.3 Términos de los receptores
 Con respecto a la Información Confidencial de la Parte Reveladora, la Parte Receptora se compromete a: (i) utilizar el mismo grado de cuidado para proteger la confidencialidad y evitar el uso o divulgación no autorizados de dicha Información Confidencial que utiliza para proteger su propia propiedad y información confidencial de naturaleza similar, que no será inferior a un grado razonable de cuidado, (ii) mantener toda dicha Información confidencial en estricta confidencialidad y no usar, vender, copiar, transferir, reproducir o divulgar dicha Información confidencial a terceros, (iii) no utilizar dicha Información Confidencial para ningún otro propósito que no sea el cumplimiento de, o según lo autorizado por, este Acuerdo.
-
+pus
 ##### 5.4 Excepciones.
 Sin perjuicio de la Sección 5.3, la Parte Receptora puede divulgar Información Confidencial de la Parte Reveladora en la medida necesaria para cumplir con una orden judicial o la ley aplicable; siempre que, sin embargo, la Parte Receptora entregue una notificación previa razonable de dicha divulgación a la Parte Reveladora y haga esfuerzos razonables para asegurar el tratamiento confidencial de dicha Información Confidencial, en su totalidad o en parte.
 
@@ -122,7 +122,7 @@ La Parte Receptora reconoce que el incumplimiento de su obligación de confidenc
 ### 6. Derechos de autor
 
 ##### 6.1 La propiedad.
-El usuario será el propietario de todos los derechos, títulos e intereses sobre los Datos del usuario. Nami será propietario y conservará todos los derechos, títulos e intereses sobre (i) cada app, Software y los Servicios y todas las mejoras, mejoras o modificaciones de los mismos, (ii) cualquier software, aplicación, invención u otra tecnología desarrollada en relación con el Servicio, y (iii) toda la propiedad intelectual y los derechos de propiedad en relación con cualquiera de los anteriores (colectivamente, "Servicios IP"). En la medida en que el usuario adquiera cualquier derecho, título o interés en cualquier parte de los Servicios, el usuario cede todos sus derechos, títulos e intereses en dicha parte de los Servicios a Nami.
+El usuario será el propietario de todos los derechos, títulos e intereses sobre los Datos del usuario. El euipo de Nami será propietario y conservará todos los derechos, títulos e intereses sobre (i) cada app, Software y los Servicios y todas las mejoras, mejoras o modificaciones de los mismos, (ii) cualquier software, aplicación, invención u otra tecnología desarrollada en relación con el Servicio, y (iii) toda la propiedad intelectual y los derechos de propiedad en relación con cualquiera de los anteriores (colectivamente, "Servicios IP"). En la medida en que el usuario adquiera cualquier derecho, título o interés en cualquier parte de los Servicios, el usuario cede todos sus derechos, títulos e intereses en dicha parte de los Servicios a Nami.
 
 ##### 6.2 Datos del usuario e información del proveedor Licencia.
 
