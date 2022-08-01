@@ -82,7 +82,7 @@ Este tiene permisos especiales en los servidores de soporte de Nami y tiene una 
 Este tiene permisos especiales en los servidores de soporte de Nami, tiene control medio de los visitantes/usuarios y puede controlar los datos de algunas caracteristicas de Nami.
 
 ##### 2.5 Usuarios.
-Estos son usuarios inmutables bajo un indentificador único, tienen permiso reservado bajo los permisos correspondientes en cada servidor de hacer configuraciones, así como tienen la responsabilidad legal y moral de solo ser usado por un individuo, estas cuentas son intransferibles y todos estos datos de la cuenta solo pueden ser tranferiables bajo ciertas condiciones que sean tomadas en cuenta por el staff.
+Estos son usuarios inmutables bajo un indentificador único, tienen permiso reservado bajo los permisos correspondientes en cada servidor de hacer configuraciones, así como tienen la responsabilidad legal y moral de solo ser usado por un individuo, estas cuentas son intransferibles y todos estos datos de la cuenta solo pueden ser transferibles bajo ciertas condiciones que sean tomadas en cuenta por el staff.
 
 ##### 2.6 Condiciones a aceptar de los usuarios.
 Como condición para el acceso y uso de una app, (i) cada Usuario Autorizado aceptará cumplir con los términos de los términos de servicio del usuario final de Nami que pueda adoptar ocasionalmente, (ii) los Usuarios Clientes aceptarán cumplir por los términos de este Acuerdo, o un subconjunto del mismo, y (iii) los Usuarios del Proveedor aceptarán cumplir con los términos de los Términos de Servicio del Proveedor de Nami vigentes en ese momento aplicables a dicha Plataforma y, en cada caso, el Cliente se asegurará de que cumplimiento. El Cliente deberá notificar inmediatamente al equipo de Nami de cualquier violación de los términos de cualquiera de los anteriores por parte de cualquier Usuario autorizado al tomar conocimiento de dicha violación, y será responsable de cualquier incumplimiento de los acuerdos anteriores por parte de cualquier Usuario autorizado.
@@ -91,13 +91,13 @@ Como condición para el acceso y uso de una app, (i) cada Usuario Autorizado ace
 El usuario será responsable de (i) todos los usos de cualquier cuenta a la que tenga acceso, ya sea que el Cliente haya autorizado o no el uso o usuario en particular, e independientemente del conocimiento del usuario de dicho uso, y (ii) proteger su cuenta de Nami, contraseñas (incluyendo pero no limitado a contraseñas administrativas y de usuario) y archivos. Nami no es responsable de ninguna pérdida, daño, costo, gasto o reclamo que resulte del robo o la pérdida de contraseñas.
 
 ### 3. Restricciones adicionales y responsabilidades
-##### 3.1 Restricciones de hardware.
+##### 3.1 Restricciones de software.
 El usuario no permitirá ni alentará a ningún tercero a realizar, directa o indirectamente, (i) ingeniería inversa, descompilar, desensamblar o intentar descubrir o derivar el código fuente, el código objeto o la estructura subyacente, las ideas, los conocimientos técnicos o los algoritmos relevantes. a una Plataforma o cualquier software, documentación o datos relacionados con una Plataforma ("Software"); (ii) modificar, traducir o crear trabajos derivados basados ​​en una Plataforma o cualquier Software; (iii) usar una Plataforma o cualquier Software para fines de tiempo compartido o oficina de servicios u otro servicio informático a un tercero; (iv) modificar, eliminar u obstruir cualquier aviso o etiqueta de propiedad; o (v) usar cualquier Software o Plataforma de cualquier manera para ayudar o participar en el desarrollo, mercadeo o venta de un producto potencialmente competitivo con dicho Software o Plataforma. Para evitar dudas, el Software y los Servicios, incluidos todos los aspectos de los Servicios visibles para el usuario, son Información Confidencial de Nami, y el usuario cumplirá con la Sección 4 al respecto.
 
 ##### 3.2 Monitoreo.
 El usuario utilizará y se asegurará de que todos los usuarios autorizados utilicen cada app, Software y Servicios en pleno cumplimiento de este Acuerdo, los términos de uso del usuario final de Nami y todas las leyes y reglamentaciones aplicables. El usuario declara y garantiza que (i) ha accedido y revisado los términos de uso u otras políticas relacionadas con una app proporcionada por Nami, (ii) comprende los requisitos de los mismos y (iii) acepta cumplirlos. Nami puede suspender la cuenta del usuario y el acceso a cada Plataforma y la prestación de los Servicios en cualquier momento y sin previo aviso si Nami cree que el usuario está violando este Acuerdo. Si bien Nami no tiene la obligación de monitorear el uso que el usuario hace de una app, Nami puede hacerlo y puede prohibir cualquier uso que crea que puede ser (o supuestamente ser) una violación de lo anterior.
 
-### 4. Acceso a tus datos
+### 4. Acceso a tus datos.
 
 Todas las politicas de privacidad se encuentran en el [acuerdo de privacidad del usuario final](*).
 
@@ -118,3 +118,16 @@ Sin perjuicio de la Sección 5.3, la Parte Receptora puede divulgar Información
 
 ##### 5.5 Remedios al incumplimiento de estas claúsulas.
 La Parte Receptora reconoce que el incumplimiento de su obligación de confidencialidad puede causar un daño irreparable a la Parte Reveladora por el cual la Parte Reveladora no puede ser compensada total o adecuadamente mediante la recuperación de daños monetarios. En consecuencia, en caso de cualquier violación, o amenaza de violación, por parte de la Parte Receptora de sus obligaciones en virtud de esta Sección, la Parte Reveladora tendrá derecho a buscar medidas cautelares de un tribunal de jurisdicción competente además de cualquier otro recurso que pueda estar disponible. de derecho o en equidad, sin necesidad de prestar fianza ni de probar daños reales.
+
+### 6. Derechos de autor
+
+##### 6.1 La propiedad.
+El usuario será el propietario de todos los derechos, títulos e intereses sobre los Datos del usuario. Nami será propietario y conservará todos los derechos, títulos e intereses sobre (i) cada app, Software y los Servicios y todas las mejoras, mejoras o modificaciones de los mismos, (ii) cualquier software, aplicación, invención u otra tecnología desarrollada en relación con el Servicio, y (iii) toda la propiedad intelectual y los derechos de propiedad en relación con cualquiera de los anteriores (colectivamente, "Servicios IP"). En la medida en que el usuario adquiera cualquier derecho, título o interés en cualquier parte de los Servicios, el usuario cede todos sus derechos, títulos e intereses en dicha parte de los Servicios a Nami.
+
+##### 6.2 Datos del usuario e información del proveedor Licencia.
+
+Todos estos datos se encuentran en el [acuerdo de privacidad del usuario final]("*")
+
+##### 6.3 Ningún otro derecho.
+
+No se otorgan derechos ni licencias excepto los expresamente establecidos en este documento.
