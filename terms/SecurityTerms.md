@@ -8,7 +8,7 @@ Todas las palabras y frases que inicien con una letra mayúscula se refieren a u
 
 - Las palabras ***`Dependencia(s)`*** hacen referencia a todos los paquetes (Código público que sirve para estructuración de datos ya presentes o para la agilización de datos) utilizados en las versiones anteriores o presentes de cualquiera de las Apps de Nami.
 
-- Las palabras ***`Database(s)`*** hacen referencia a las 2 bases de datos que sirven para el funcioNamiento continúo de Nami, ya sea Firebase como base de datos principales y real-time Database como caché.
+- Las palabras ***`Database(s)`*** hacen referencia a las 2 bases de datos que sirven para el funcionamiento continúo de Nami, ya sea Firebase como base de datos principales y real-time Database como caché.
 
 - Las palabras ***`Algoritmos(s)`*** hacen referencia a toda la cadena de procesos que se utilizan para la agilización de datos de Nami, así como su seguridad.
 
@@ -19,11 +19,11 @@ En este documento se hablará acerca de las estrategias de seguridad de Nami, as
 
 En este documento se explicará toda la política/revisiones de seguridad por las que pasa todo el sistema de Nami para hacer que luzca centrado, bonito y conciso.
 
-Estos términos son un derivado de los [Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md) por lo cual estos se acomodan a todos los criterios de disposiciones de propiedad, las renuncias de garantía, la indemnización y limitaciones de responsabilidad, así como se adapta a todas las limitaciones en cuanto al rompimiento de estos Algoritmoss de seguridad.
+Estos términos son un derivado de los [Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md) por lo cual estos se acomodan a todos los criterios de disposiciones de propiedad, las renuncias de garantía, la indemnización y limitaciones de responsabilidad, así como se adapta a todas las limitaciones en cuanto al rompimiento de estos Algoritmos de seguridad.
 
 ### 1. Nuestras tecnologías
 ##### 1.1 Encriptación de datos.
-Nosotros al tratar de brindar la mayor seguridad al Usuario brindamos diferentes capas de encriptación a en si los datos encriptados usando la tecnología `HS256` y firmado por [JWT](https://datatracker.ietf.org/doc/html/rfc7519) usando así la mayor seguridad de cifrado y con sus Algoritmoss criptográficos seguros se ofrece la mayor seguridad a los campos más sensibles de las tablas de los Usuarios, así como a los Servidores.
+Nosotros al tratar de brindar la mayor seguridad al Usuario brindamos diferentes capas de encriptación a en si los datos encriptados usando la tecnología `HS256` y firmado por [JWT](https://datatracker.ietf.org/doc/html/rfc7519) usando así la mayor seguridad de cifrado y con sus Algoritmos criptográficos seguros se ofrece la mayor seguridad a los campos más sensibles de las tablas de los Usuarios, así como a los Servidores.
 
 ##### 1.2 Sistemas de seguridad contra inyecciones de Código.
 Nosotros, enfocándonos en la seguridad de los Visitantes y Usuarios de Nami, brindamos un sistema moderno que no admite la inyección de Código.
