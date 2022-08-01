@@ -1,5 +1,9 @@
 # Términos de servicio de Nami
 
+
+Ultima actualización: 1 de Agosto del 2022.
+
+
 ### Definiciones
 
 - Con la palabra ***`app(s)`*** se refiere a todas las instancias de los usuarios de [Nami](https://discord.com/users/747612596982513724), [Nami Beta](https://discord.com/users/792560073356476426) dentro de la plataforma de discord así como aparte hace incapié a todas las apps ya sean bases de datos, la API, así como la página web de Nami, esta dependiendo del caso o/y contexto que se le sé al futuro texto.
@@ -112,7 +116,7 @@ Sin perjuicio de cualquier disposición en contrario contenida en el presente, l
 
 ##### 5.3 Términos de los receptores
 Con respecto a la Información Confidencial de la Parte Reveladora, la Parte Receptora se compromete a: (i) utilizar el mismo grado de cuidado para proteger la confidencialidad y evitar el uso o divulgación no autorizados de dicha Información Confidencial que utiliza para proteger su propia propiedad y información confidencial de naturaleza similar, que no será inferior a un grado razonable de cuidado, (ii) mantener toda dicha Información confidencial en estricta confidencialidad y no usar, vender, copiar, transferir, reproducir o divulgar dicha Información confidencial a terceros, (iii) no utilizar dicha Información Confidencial para ningún otro propósito que no sea el cumplimiento de, o según lo autorizado por, este Acuerdo.
-pus
+
 ##### 5.4 Excepciones.
 Sin perjuicio de la Sección 5.3, la Parte Receptora puede divulgar Información Confidencial de la Parte Reveladora en la medida necesaria para cumplir con una orden judicial o la ley aplicable; siempre que, sin embargo, la Parte Receptora entregue una notificación previa razonable de dicha divulgación a la Parte Reveladora y haga esfuerzos razonables para asegurar el tratamiento confidencial de dicha Información Confidencial, en su totalidad o en parte.
 
@@ -122,7 +126,7 @@ La Parte Receptora reconoce que el incumplimiento de su obligación de confidenc
 ### 6. Derechos de autor
 
 ##### 6.1 La propiedad.
-El usuario será el propietario de todos los derechos, títulos e intereses sobre los Datos del usuario. El equipo de Nami será propietario y conservará todos los derechos, títulos e intereses sobre (i) cada app, Software y los Servicios y todas las mejoras, mejoras o modificaciones de los mismos, (ii) cualquier software, aplicación, invención u otra tecnología desarrollada en relación con el Servicio, y (iii) toda la propiedad intelectual y los derechos de propiedad en relación con cualquiera de los anteriores (colectivamente, "Servicios IP"). En la medida en que el usuario adquiera cualquier derecho, título o interés en cualquier parte de los Servicios, el usuario cede todos sus derechos, títulos e intereses en dicha parte de los Servicios a Nami.
+El usuario será el propietario de todos los derechos, títulos e intereses sobre los Datos del usuario. Nami será propietario y conservará todos los derechos, títulos e intereses sobre (i) cada app, Software y los Servicios y todas las mejoras, mejoras o modificaciones de los mismos, (ii) cualquier software, aplicación, invención u otra tecnología desarrollada en relación con el Servicio, y (iii) toda la propiedad intelectual y los derechos de propiedad en relación con cualquiera de los anteriores (colectivamente, "Servicios IP"). En la medida en que el usuario adquiera cualquier derecho, título o interés en cualquier parte de los Servicios, el usuario cede todos sus derechos, títulos e intereses en dicha parte de los Servicios a Nami.
 
 ##### 6.2 Datos del usuario e información del proveedor Licencia.
 
@@ -131,3 +135,35 @@ Todos estos datos se encuentran en el [acuerdo de privacidad del usuario final](
 ##### 6.3 Ningún otro derecho.
 
 No se otorgan derechos ni licencias excepto los expresamente establecidos en este documento.
+
+
+### 7. Garantías y descargos de Responsabilidad
+
+##### 7.1 Garantías.
+El equipo de Nami declara y garantiza que prestará los Servicios Profesionales de manera profesional y eficiente. Cada parte declara y garantiza que tiene el poder legal para celebrar este Acuerdo. Además, el usuario garantiza que (i) el usuario posee o tiene una licencia para usar y ha obtenido todos los consentimientos y aprobaciones necesarios para la provisión y el uso de todos los Datos del usuario que se colocan, transmiten o registran en una app y los Servicios ; (ii) la provisión y el uso de los Datos del usuario según lo contemplado en este Acuerdo y cada app y los Servicios no violan ni violarán la política de privacidad, los términos de uso u otro acuerdo del usuario en el que el usuario sea parte o cualquier ley o regulación para a la que está sujeto el usuario.
+
+##### 7.2 Descargos de responsabilidad.
+***`SALVO QUE SE ESTIPULE EXPRESAMENTE EN EL PRESENTE DOCUMENTO O EN UNA DECLARACIÓN DE SERVICIO, EL EQUIPO DE NAMI NO GARANTIZA QUE EL ACCESO A LAS APPS, EL SOFTWARE O LOS SERVICIOS SERÁ ININTERRUMPIDO O LIBRE DE ERRORES, NI ZIRA GARANTIZA ALGUNA EN CUANTO A LOS RESULTADOS QUE PUEDAN OBTENERSE DEL USO DEL SERVICIOS. ADEMÁS, EL EQUIPO DE NAMI NO HACE NINGUNA REPRESENTACIÓN NI GARANTÍA CON RESPECTO A LOS SERVICIOS PROPORCIONADOS POR TERCEROS PROVEEDORES DE SERVICIOS TECNOLÓGICOS RELACIONADOS O QUE SOPORTEN UNA APP, INCLUYENDO LOS SERVICIOS DE ALOJAMIENTO Y MANTENIMIENTO, Y CUALQUIER RECLAMACIÓN DEL CLIENTE QUE SURJA DE DICHOS SERVICIOS O RELACIONADA CON ELLOS DEBERÁ, ENTRE NAMI Y DICHO PROVEEDOR DE SERVICIOS SERÁ ÚNICAMENTE CONTRA DICHO PROVEEDOR DE SERVICIOS. LAS PLATAFORMAS, EL SOFTWARE Y LOS SERVICIOS SE PROPORCIONAN "TAL CUAL", Y NAMI RENUNCIA A TODAS LAS GARANTÍAS, EXPRESAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, GARANTÍAS IMPLÍCITAS DE NO VIOLACIÓN, COMERCIABILIDAD E IDONEIDAD PARA UN FIN DETERMINADO, EN LA MEDIDA MÁXIMA PERMITIDA. POR LEY APLICABLE.`***
+
+### 8. Limitaciones de responsabilidad.
+***`EN NINGÚN CASO (I) LA RESPONSABILIDAD DE CUALQUIERA DE LAS PARTES QUE SURJA O ESTÉ RELACIONADA CON ESTE ACUERDO, YA SEA POR CONTRATO, AGRAVIO O BAJO CUALQUIER OTRA TEORÍA DE RESPONSABILIDAD, EXCEDERÁ EN TOTAL LAS TARIFAS TOTALES PAGADAS O DEBIDAS POR EL USUARIO Y LOS PROVEEDORES EN VIRTUD DEL PRESENTE DURANTE LOS DOCE ( 12 ) MESES INMEDIATAMENTE ANTERIORES A LA FECHA DEL ACONTECIMIENTO QUE DIO LUGAR A LA RECLAMACIÓN (DICHA MONTA ESTÁ INDICADA COMO UN LÍMITE ACUMULADO Y NO POR INCIDENTE), Y (II) CUALQUIERA DE LAS PARTES TENGA RESPONSABILIDAD HACIA LA OTRA POR CUALQUIER BENEFICIO O INGRESOS PERDIDOS O POR CUALQUIER DAÑO INDIRECTO, INCIDENTAL, CONSECUENTE, CUBIERTO, ESPECIAL, EJEMPLAR O PUNITIVO, CUALQUIERA DE SUS CAUSAS, YA SEA POR CONTRATO, AGRAVIO O BAJO CUALQUIER OTRA TEORÍA DE RESPONSABILIDAD, YA SEA QUE LA PARTE HAYA SIDO ADVERTIDA O NO DE LA POSIBILIDAD DE DICHOS DAÑOS. LAS LIMITACIONES Y EXENCIONES DE RESPONSABILIDAD ANTERIORES NO SE APLICARÁN EN LA MEDIDA EN QUE LO PROHÍBA LA LEY APLICABLE.`***
+
+***`LOS USUARIOS DEBEN CUMPLIR LAS LEYES Y NORMATIVAS APLICABLES AL UTILIZAR LA APP NAMI, INCLUYENDO, ENTRE OTRAS, LAS LEYES LABORALES QUE RIGEN LA UBICACIÓN DE SU NEGOCIO Y LA INDUSTRIA/COMERCIO. ESTO PUEDE INCLUIR IMPUESTOS, PAGO, HORAS EXTRA, HORAS DE TRABAJO, COMUNICACIÓN, CONTRATACIÓN, LEYES DE PROGRAMACIÓN PREDICTIVA ENTRE OTRAS. CUALQUIER INCUMPLIMIENTO DE ESTAS REGLAS ES RESPONSABILIDAD DEL USUARIO. EL EQUIPO DE NAMI NO ES RESPONSABLE DE NINGÚN DAÑO, FINANCIERO O DE OTRO TIPO RELACIONADO CON LAS VIOLACIONES DE ESTAS LEYES Y REGULACIONES. AL UTILIZAR NAMI, LOS USUARIOS ENTIENDEN QUE ES SU RESPONSABILIDAD, NO LA DE NAMI, INVESTIGAR, COMPRENDER E IMPLEMENTAR CUALQUIER POLÍTICA REQUERIDA DE SUS ORGANIZACIONES COMERCIALES FEDERALES, ESTATALES, LOCALES O GOBERNANTES PARA EVITAR POSIBLES DAÑOS O RESPONSABILIDAD.`***
+
+
+### 9. Disputas legales.
+
+Todas las disputas legales serán respecto a todas las leyes de Santiago, Chile.
+
+### 10. Seguridad.
+Todos estos datos podrán ser encontrados en la [Politica de Seguridad](*)
+
+### 11. Fuerzas mayores.
+El equipo de Nami no es responsable de los retrasos o fallas en el desempeño por cualquier causa fuera de su control, incluidos, entre otros, actos de Dios, cambios en la ley o los reglamentos, embargos, guerra, actos terroristas, actos u omisiones de proveedores de tecnología de terceros, disturbios, incendios, terremotos, inundaciones, cortes de energía, huelgas, condiciones climáticas o actos de piratas informáticos, proveedores de servicios de Internet o cualquier otro tercero o actos u omisiones del usuario o cualquier staff.
+
+
+### 12. Asignación
+Ninguna de las partes puede ceder este Acuerdo a ningún tercero sin el consentimiento previo por escrito de la otra parte; siempre que no se requiera consentimiento en relación con una cesión a una afiliada o en relación con cualquier fusión, reorganización, consolidación, venta de activos o transacción similar. Nami puede sublicenciar cualquiera o todas sus obligaciones en virtud del presente. Para evitar dudas, un proveedor de tecnología de terceros que proporcione características o funcionalidades en relación con una Plataforma no se considerará sublicenciatario en virtud de este Acuerdo.
+
+### 13. Correlaciones
+Si se determina que alguna disposición de este Acuerdo es inaplicable o inválida, esa disposición se limitará o eliminará en la medida mínima necesaria para que este Acuerdo permanezca en pleno vigor y efecto y exigible. Este Acuerdo, junto con la Declaración de servicios suscrita a continuación y todos los documentos, anexos y adiciones al presente y al mismo, es la declaración completa y exclusiva del entendimiento mutuo de las partes y reemplaza y cancela todos los acuerdos escritos y orales, comunicaciones y otros entendimientos relacionados con al objeto de este Acuerdo. Todas las renuncias y modificaciones deben realizarse por escrito y firmadas por ambas partes, excepto que se disponga lo contrario en el presente. No se crea ninguna agencia, sociedad, empresa conjunta o empleo como resultado de este Acuerdo, y ninguna de las partes tiene autoridad de ningún tipo para vincular a la otra parte en ningún aspecto. En caso de conflicto entre este Acuerdo y cualquier Declaración de servicios, dicha Declaración de servicios prevalecerá a menos que se indique expresamente lo contrario en este Acuerdo o dicha Declaración de servicios. Las referencias a los encabezados en este documento son solo para fines de conveniencia y no se considerará que limitan o afectan ninguna de las disposiciones del presente. A menos que se indique lo contrario en el presente por el contexto o el uso del mismo: (i) las palabras "del presente", "por el presente", "en el presente", "por el presente" y "en virtud del presente" y palabras de significado similar se referirán a este Acuerdo como en su totalidad y no a ninguna Sección o párrafo en particular de este Acuerdo; (ii) se considera que las palabras "incluir", "incluye" o "incluido" van seguidas de las palabras "sin limitación"; (iii) las referencias a una "Sección" o "Anexo" son referencias a una sección o anexo de este Acuerdo; y (iv) las formas derivadas de términos definidos tendrán significados correlativos.
