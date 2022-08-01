@@ -55,7 +55,7 @@ El reporte será válido solo si el contenido es realmente del código interno d
 
 La única acción pertinente que será hecha será la eliminación de la cuenta permanentemente del usuario que suba malware usando cualquiera de las apps de Nami.
 
-Si el reporte cumple con las condiciones, este será reportado por medio de un ticket al staff, para que así puedan ayudar al usuario y darle una [indemnización](https://github.com/Kisu-s-fluff-workgroup/TermsAndConditions/blob/V0/terms/service%20terms.md#indemnización) por todo el contenido dañado parcialmente o en su totalidad.
+Si el reporte cumple con las condiciones, este será reportado por medio de un ticket al staff, para que así puedan ayudar al usuario y darle una [indemnización](hhttps://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/service%20terms.md#indemnización) por todo el contenido dañado parcialmente o en su totalidad.
 
 ### 4. Conexión con los Términos de Servicio de Nami
 ##### 4.1 Las conexiones
