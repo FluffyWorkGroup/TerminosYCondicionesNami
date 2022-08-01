@@ -122,7 +122,7 @@ La Parte Receptora reconoce que el incumplimiento de su obligación de confidenc
 ### 6. Derechos de autor
 
 ##### 6.1 La propiedad.
-El usuario será el propietario de todos los derechos, títulos e intereses sobre los Datos del usuario. El euipo de Nami será propietario y conservará todos los derechos, títulos e intereses sobre (i) cada app, Software y los Servicios y todas las mejoras, mejoras o modificaciones de los mismos, (ii) cualquier software, aplicación, invención u otra tecnología desarrollada en relación con el Servicio, y (iii) toda la propiedad intelectual y los derechos de propiedad en relación con cualquiera de los anteriores (colectivamente, "Servicios IP"). En la medida en que el usuario adquiera cualquier derecho, título o interés en cualquier parte de los Servicios, el usuario cede todos sus derechos, títulos e intereses en dicha parte de los Servicios a Nami.
+El usuario será el propietario de todos los derechos, títulos e intereses sobre los Datos del usuario. El equipo de Nami será propietario y conservará todos los derechos, títulos e intereses sobre (i) cada app, Software y los Servicios y todas las mejoras, mejoras o modificaciones de los mismos, (ii) cualquier software, aplicación, invención u otra tecnología desarrollada en relación con el Servicio, y (iii) toda la propiedad intelectual y los derechos de propiedad en relación con cualquiera de los anteriores (colectivamente, "Servicios IP"). En la medida en que el usuario adquiera cualquier derecho, título o interés en cualquier parte de los Servicios, el usuario cede todos sus derechos, títulos e intereses en dicha parte de los Servicios a Nami.
 
 ##### 6.2 Datos del usuario e información del proveedor Licencia.
 
