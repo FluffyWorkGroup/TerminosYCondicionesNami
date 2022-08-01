@@ -1,6 +1,6 @@
 # Términos de Seguridad de Nami
 
-Última actualización: 2 de agosto del 2022.
+Última actualización: 1 de agosto del 2022.
 
 ### Definiciones.
 

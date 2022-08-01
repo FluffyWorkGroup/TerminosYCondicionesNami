@@ -1,6 +1,6 @@
 # Términos de servicio de Nami
 
-Ultima actualización: 2 de agosto del 2022.
+Ultima actualización: 1 de agosto del 2022.
 
 ### Definiciones
 
