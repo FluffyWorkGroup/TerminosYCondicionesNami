@@ -10,14 +10,14 @@
 
 - Las palabras ***`algoritmo(s)`*** hacen referencia a toda la cadena de procesos que se utilizan para la agilización de datos de Nami así como su seguridad.
 
-- Estas definiciones son un complemento a las [definiciones de los Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TermsAndConditions/blob/V0/terms/service%20terms.md#definiciones) por lo cuál las definiciones del documento mencionado actúan como definiciones globales en todos los documentos presentes.
+- Estas definiciones son un complemento a las [definiciones de los Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/service%20terms.md#definiciones) por lo cuál las definiciones del documento mencionado actúan como definiciones globales en todos los documentos presentes.
 
 ### Introducción
-En este documento se hablará acerca de las estrategias de seguridad de Nami, así como diferentes sistemas para asegurar el correcto funcionamiento de todos los datos ya [sean públicos o confidenciales](https://github.com/Kisu-s-fluff-workgroup/TermsAndConditions/blob/V0/terms/service%20terms.md#52-entendiendo-que-son-los-datos-privados).
+En este documento se hablará acerca de las estrategias de seguridad de Nami, así como diferentes sistemas para asegurar el correcto funcionamiento de todos los datos ya [sean públicos o confidenciales](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/service%20terms.md#52-entendiendo-que-son-los-datos-privados).
 
 En este documento se explicará toda la politica/revisiones de seguridad por las que pasa todo el sistema de Nami para hacer que luzca centrado, bonito y conciso.
 
-Estos términos son un derivado de los [Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TermsAndConditions/blob/V0/terms/service%20terms.md) por lo cual estos se acomodan a todos los criterios de disposiciones de propiedad, las renuncias de garantía, la indemnización y limitaciones de responsabilidad, así como se adapta a todas las limitaciones en cuanto al rompimiento de estos algoritmos de seguridad.
+Estos términos son un derivado de los [Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/service%20terms.md) por lo cual estos se acomodan a todos los criterios de disposiciones de propiedad, las renuncias de garantía, la indemnización y limitaciones de responsabilidad, así como se adapta a todas las limitaciones en cuanto al rompimiento de estos algoritmos de seguridad.
 
 ### 1. Nuestras tecnologías
 ##### 1.1 Encriptación de datos.
@@ -37,7 +37,7 @@ Nuestras bases de datos al ser hosteadas por terceros, estas siguen un [reglamen
 Además de adecuarnos a este reglamento, nosotros también brindamos un sistema de seguridad para que los datos sean seguros y no sean manipulados por terceros, usando la tecnología `HS256` y firmado por [JWT](https://datatracker.ietf.org/doc/html/rfc7519).
 
 ##### 2.2 La seguridad de nuestros *sitios webs*
-Nuestros sitios webs, al ser hosteados directamente en servidores con control total y hosteados localmente por nosotros, brindamos toda la seguridad de poder brindar un soporte profesional y rápido en caso de falla, siguiendo las [Limitaciones de Responsabilidad de Nami y Descargos de Responsabilidad de Nami](https://github.com/Kisu-s-fluff-workgroup/TermsAndConditions/blob/V0/terms/service%20terms.md#8-limitaciones-de-responsabilidad).
+Nuestros sitios webs, al ser hosteados directamente en servidores con control total y hosteados localmente por nosotros, brindamos toda la seguridad de poder brindar un soporte profesional y rápido en caso de falla, siguiendo las [Limitaciones de Responsabilidad de Nami y Descargos de Responsabilidad de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/service%20terms.md#8-limitaciones-de-responsabilidad).
 
 Todos nuestros sitios webs estan protegidos en su totalidad por [CloudFare](https://www.cloudflare.com) y se adecúan a sus sistemas de seguridad que realmente forman parte de la información confidencial de Nami.
 
@@ -47,11 +47,11 @@ Nosotros, estamos constamente enfocados en las brechas de seguridad de nuestras 
 Todo esto con un equipo que se encarga automaticamente de actualizar las dependencias de Nami, para que estas brechas de seguridad sean más fáciles de detectar y solucionar, todo esto usando el sistema de seguridad de Nami.
 ### 3. Descargos de responsabilidad en cuanto a Seguridad.
 ##### 3.1 Tú seguridad no es la misma que nuestra seguridad.
-Nosotros nos comprometemos en brindar la mayor seguridad en nuestros servicios, pero nosotros no nos hacemos cargo si de alguna manera se tratan de romper los acuerdos de [Limitaciones de Software](https://github.com/Kisu-s-fluff-workgroup/TermsAndConditions/blob/V0/terms/service%20terms.md#31-restricciones-de-software) bajo herramientas de terceros u usando las herramientas de desarrollador del navegador web, por lo cuál esto si se llega a presentar una queja, no tiene nada que ver con nosotros.
+Nosotros nos comprometemos en brindar la mayor seguridad en nuestros servicios, pero nosotros no nos hacemos cargo si de alguna manera se tratan de romper los acuerdos de [Limitaciones de Software](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/service%20terms.md#31-restricciones-de-software) bajo herramientas de terceros u usando las herramientas de desarrollador del navegador web, por lo cuál esto si se llega a presentar una queja, no tiene nada que ver con nosotros.
 
 
 ##### 3.2 En caso de infección de malware usando nuestros servicios.
-El reporte será válido solo si el contenido es realmente del código interno de Nami, por lo cuál el contenido puesto por terceros ya sean usuarios como se dice en la [claúsula de responsabilidad de contenido de los Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TermsAndConditions/blob/V0/terms/service%20terms.md#el-contenido) cualquier contenido subido por usuarios, no será responsabilidad del staff de Nami.
+El reporte será válido solo si el contenido es realmente del código interno de Nami, por lo cuál el contenido puesto por terceros ya sean usuarios como se dice en la [claúsula de responsabilidad de contenido de los Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/service%20terms.md#el-contenido) cualquier contenido subido por usuarios, no será responsabilidad del staff de Nami.
 
 La única acción pertinente que será hecha será la eliminación de la cuenta permanentemente del usuario que suba malware usando cualquiera de las apps de Nami.
 
