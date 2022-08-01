@@ -82,16 +82,16 @@ Este tiene permisos especiales en los servidores de soporte de Nami y tiene una 
 Este tiene permisos especiales en los servidores de soporte de Nami, tiene control medio de los visitantes/usuarios y puede controlar los datos de algunas caracteristicas de Nami.
 
 ##### 2.5 Usuarios.
-Estos son usuarios inmutables bajo un indentificador único, tienen permiso reservado bajo los permisos correspondientes en cada servidor de hacer configuraciones, así como tienen la responsabilidad legal y moral de solo ser usado por un individuo, estas cuentas son intransferibles y todos estos datos de la cuenta solo pueden ser transferibles bajo ciertas condiciones que sean tomadas en cuenta por el staff.
+Estos son usuarios inmutables bajo un indentificador único, tienen permiso reservado bajo los permisos correspondientes en cada servidor de hacer configuraciones, así como tienen la responsabilidad legal y moral de solo ser usado por un individuo, estas cuentas son intransferibles y todos estos datos de la cuenta solo pueden ser tranferiables bajo ciertas condiciones que sean tomadas en cuenta por el staff.
 
-##### 2.4 Condiciones a aceptar de los usuarios.
+##### 2.6 Condiciones a aceptar de los usuarios.
 Como condición para el acceso y uso de una app, (i) cada Usuario Autorizado aceptará cumplir con los términos de los términos de servicio del usuario final de Nami que pueda adoptar ocasionalmente, (ii) los Usuarios Clientes aceptarán cumplir por los términos de este Acuerdo, o un subconjunto del mismo, y (iii) los Usuarios del Proveedor aceptarán cumplir con los términos de los Términos de Servicio del Proveedor de Nami vigentes en ese momento aplicables a dicha Plataforma y, en cada caso, el Cliente se asegurará de que cumplimiento. El Cliente deberá notificar inmediatamente al equipo de Nami de cualquier violación de los términos de cualquiera de los anteriores por parte de cualquier Usuario autorizado al tomar conocimiento de dicha violación, y será responsable de cualquier incumplimiento de los acuerdos anteriores por parte de cualquier Usuario autorizado.
 
-##### 2.5 Responsabilidad de tú cuenta.
+##### 2.7 Responsabilidad de tú cuenta.
 El usuario será responsable de (i) todos los usos de cualquier cuenta a la que tenga acceso, ya sea que el Cliente haya autorizado o no el uso o usuario en particular, e independientemente del conocimiento del usuario de dicho uso, y (ii) proteger su cuenta de Nami, contraseñas (incluyendo pero no limitado a contraseñas administrativas y de usuario) y archivos. Nami no es responsable de ninguna pérdida, daño, costo, gasto o reclamo que resulte del robo o la pérdida de contraseñas.
 
 ### 3. Restricciones adicionales y responsabilidades
-##### 3.1 Restricciones de software.
+##### 3.1 Restricciones de hardware.
 El usuario no permitirá ni alentará a ningún tercero a realizar, directa o indirectamente, (i) ingeniería inversa, descompilar, desensamblar o intentar descubrir o derivar el código fuente, el código objeto o la estructura subyacente, las ideas, los conocimientos técnicos o los algoritmos relevantes. a una Plataforma o cualquier software, documentación o datos relacionados con una Plataforma ("Software"); (ii) modificar, traducir o crear trabajos derivados basados ​​en una Plataforma o cualquier Software; (iii) usar una Plataforma o cualquier Software para fines de tiempo compartido o oficina de servicios u otro servicio informático a un tercero; (iv) modificar, eliminar u obstruir cualquier aviso o etiqueta de propiedad; o (v) usar cualquier Software o Plataforma de cualquier manera para ayudar o participar en el desarrollo, mercadeo o venta de un producto potencialmente competitivo con dicho Software o Plataforma. Para evitar dudas, el Software y los Servicios, incluidos todos los aspectos de los Servicios visibles para el usuario, son Información Confidencial de Nami, y el usuario cumplirá con la Sección 4 al respecto.
 
 ##### 3.2 Monitoreo.
@@ -103,3 +103,18 @@ Todas las politicas de privacidad se encuentran en el [acuerdo de privacidad del
 
 ### 5. Confidencialidad
 
+##### 5.1 Los datos privados.
+Cada parte (la "Parte Receptora") entiende que la otra parte (la "Parte Reveladora") ha estado, y puede estar, expuesta o adquirida información comercial, técnica o financiera relacionada con el negocio por la parte reveladora (en lo sucesivo, " Información confidencial"). La Información confidencial de Nami incluye información no pública sobre las características, la funcionalidad y el rendimiento de cada app y Software. La Información confidencial del usuario incluye datos no públicos proporcionados por el usuario a Nami para permitir la provisión de acceso y uso de los Servicios, así como todo el contenido, los datos y la información registrados y almacenados por cada app para el usuario ("Datos del usuario" ), pero excluye explícitamente la Información del proveedor (definida a continuación). Los términos y condiciones de este Acuerdo, incluidos todos los datos y las métricas relacionadas, son información confidencial de Nami.
+
+
+##### 5.2 Entendiendo que son los datos privados.
+Sin perjuicio de cualquier disposición en contrario contenida en el presente, la Información confidencial no incluirá ninguna información que la Parte receptora pueda documentar (i) esté o esté generalmente disponible para el público, (ii) estaba en su posesión o conocida antes de recibirla de la Reveladora Parte, (iii) le fue revelada legítimamente sin restricción por un tercero, o (iv) fue desarrollada de forma independiente sin el uso de ninguna Información Confidencial de la Parte Reveladora.
+
+##### 5.3 Términos de los receptores
+Con respecto a la Información Confidencial de la Parte Reveladora, la Parte Receptora se compromete a: (i) utilizar el mismo grado de cuidado para proteger la confidencialidad y evitar el uso o divulgación no autorizados de dicha Información Confidencial que utiliza para proteger su propia propiedad y información confidencial de naturaleza similar, que no será inferior a un grado razonable de cuidado, (ii) mantener toda dicha Información confidencial en estricta confidencialidad y no usar, vender, copiar, transferir, reproducir o divulgar dicha Información confidencial a terceros, (iii) no utilizar dicha Información Confidencial para ningún otro propósito que no sea el cumplimiento de, o según lo autorizado por, este Acuerdo.
+
+##### 5.4 Excepciones.
+Sin perjuicio de la Sección 5.3, la Parte Receptora puede divulgar Información Confidencial de la Parte Reveladora en la medida necesaria para cumplir con una orden judicial o la ley aplicable; siempre que, sin embargo, la Parte Receptora entregue una notificación previa razonable de dicha divulgación a la Parte Reveladora y haga esfuerzos razonables para asegurar el tratamiento confidencial de dicha Información Confidencial, en su totalidad o en parte.
+
+##### 5.5 Remedios al incumplimiento de estas claúsulas.
+La Parte Receptora reconoce que el incumplimiento de su obligación de confidencialidad puede causar un daño irreparable a la Parte Reveladora por el cual la Parte Reveladora no puede ser compensada total o adecuadamente mediante la recuperación de daños monetarios. En consecuencia, en caso de cualquier violación, o amenaza de violación, por parte de la Parte Receptora de sus obligaciones en virtud de esta Sección, la Parte Reveladora tendrá derecho a buscar medidas cautelares de un tribunal de jurisdicción competente además de cualquier otro recurso que pueda estar disponible. de derecho o en equidad, sin necesidad de prestar fianza ni de probar daños reales.
