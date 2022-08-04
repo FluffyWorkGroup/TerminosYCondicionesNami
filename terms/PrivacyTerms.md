@@ -9,11 +9,9 @@ Todas las palabras y frases que inicien con una letra mayúscula se refieren a u
 
 - Estas definiciones son un complemento a las [definiciones de los Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#definiciones) por lo cual las definiciones del documento mencionado actúan como definiciones globales en todos los documentos presentes.
 
-- Las palabras ***`Dispositivo(s)`*** hacen referencia al aparato eléctronico donde se esta conectando el cliente del usuario. 
+- Las palabras ***`Dispositivo(s)`*** hacen referencia al aparato eléctronico donde el usuario se esta conectando a cualquiera de las apps de Nami, como por ejemplo una computadora, un celular, una tablet, etc. 
 
 - Las palabras ***`cookie(s)`*** hacen referencia a una pequeña porción de datos que se almacenan de manera temporal o permanente en el dispositivo del usuario.
-
-- La frase ***`país legal`*** hace referencia al país donde se dan las leyes de Discord Inc. que en este caso sería Estados Unidos de América.
 
 - Las palabras ***`servicio(s)`*** hacen referencia a cualquiera de las [Apps](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#definiciones) de Nami o sus dependencias y las diferentes utilidades que pueden brindar estas mismas.
 
@@ -37,7 +35,8 @@ Nosotros usamos tús datos personales para dar con una mayor personalización y 
 #### Tipos de datos almacenados:
 ##### 1.1 Datos personales
 
-Cuando usas nuestros servicios, nosotros obtenemos información que nos permite identificarte dentro de nuestros propios servicios. Estos datos personales identificables abarcan pero sin limitarse a:
+Cuando usas nuestros servicios, nosotros obtenemos información del usuario que nos permiten identificarlos dentro de nuestros propios servicios. Estos datos personales identificables pueden abarcar los siguientes campos, pero sin limitarse a estos:
+
 - **Tu correo eléctronico o email.**
 - **Tus datos de uso recabados por nosotros o por terceros.**
 
@@ -83,7 +82,7 @@ Para más información de las cookies, por favor visíte la sesión de Cookies e
 
 - **Para mantener o brindar nuestros servicios:** Para monitorear el uso de nuestros servicios.
 - **Para gestionar tu cuenta dentro de Nami:** Para gestionar tu registro como usuario a nuestro servicio. Los Datos Personales que proporcione pueden darle acceso a diferentes funcionalidades del Servicio que están disponibles para ti como usuario registrado.
-- **Para asegurar la supervivencia de este contrato:** El desarrollo, cumplimiento y realización del [contrato de servicios de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md) o de cualquier otro contrato con Nosotros a través de cualquiera de nuestro(s) servicio(s).
+- **Para asegurar la supervivencia de este contrato:** El desarrollo, cumplimiento y realización de los [términos de servicios de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md) o de cualquier otro contrato con Nosotros a través de cualquiera de nuestro(s) servicio(s).
 - **Para contactarnos contigo:** Para contactarlo por correo electrónico, llamadas telefónicas, SMS u otras formas equivalentes de comunicación electrónica, como notificaciones automáticas de una aplicación móvil sobre actualizaciones o comunicaciones informativas relacionadas con las funcionalidades, productos o servicios contratados, incluidas las actualizaciones de seguridad, cuando sea necesario o razonable para su implementación.
 - **Para administrar tus peticiones:** Para administrar correctamente y personalizadamente todas tus peticiones.
 
