@@ -1,6 +1,6 @@
 # Términos de Privacidad de Nami
 
-Ultima actualización: 3 de Agosto del 2022.
+Ultima actualización: 4 de Agosto del 2022.
 
 ### Interpretación
 Todas las palabras y frases que inicien con una letra mayúscula se refieren a una definicion de las estipuladas debajo.
