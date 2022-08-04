@@ -26,3 +26,15 @@
 - [**11. Fuerzas mayores**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#11-fuerzas-mayores)
 - [**12. Asignación**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#12-asignación)
 - [**13. Correlaciones**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#13-correlaciones)
+
+<br><br>
+
+
+### [Politica de Seguridad](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md)
+- [**Interpretación de las definiciones**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#interpretación)
+- [**Definiciones**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#definiciones)
+- [**Introducción**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#introducción)
+- [**1. Nuestras tecnologías**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#1-nuestras-tecnologías)
+- [**2. Tecnología de terceros**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#2-tecnologías-de-terceros-de-seguridad)
+- [**3. Descargos de Responsabilidad**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#3-descargos-de-responsabilidad-en-cuanto-a-seguridad)
+- [**4. Conexión con los Términos de Servicio**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#4-conexión-con-los-términos-de-servicio-de-nami)
