@@ -7,13 +7,13 @@ Todas las palabras y frases que inicien con una letra mayúscula se refieren a u
 
 ### Definiciones
 
-- Estas definiciones son un complemento a las [definiciones de los Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md#definiciones) por lo cual las definiciones del documento mencionado actúan como definiciones globales en todos los documentos presentes.
+- Estas definiciones son un complemento a las [definiciones de los Términos de Servicio de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md#definiciones) por lo cual las definiciones del documento mencionado actúan como definiciones globales en todos los documentos presentes.
 
 - Las palabras ***`Dispositivo(s)`*** hacen referencia al aparato electrónico donde el Usuario se está conectando a cualquiera de las Apps de Nami, como por ejemplo una computadora, un celular, una Tablet, etc. 
 
 - Las palabras ***`Cookie(s)`*** hacen referencia a una pequeña porción de datos que se almacenan de manera temporal o permanente en el Dispositivo del Usuario.
 
-- Las palabras ***`Servicio(s)`*** hacen referencia a cualquiera de las [Apps](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md#definiciones) de Nami o sus Dependencias y las diferentes utilidades que pueden brindar estas mismas.
+- Las palabras ***`Servicio(s)`*** hacen referencia a cualquiera de las [Apps](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md#definiciones) de Nami o sus Dependencias y las diferentes utilidades que pueden brindar estas mismas.
 
 - Las palabras ***`Provedor(es)`*** hacen referencia a cualquier persona física del Equipo de Nami o jurídica que procesa los datos en nombre del Equipo de Nami. Se refiere a empresas o grupos de terceros o personas empleadas por el grupo para facilitar el Servicio, proporcionar el Servicio en nombre del grupo, realizar Servicios relacionados con el Servicio o ayudar al Equipo a analizar cómo se utiliza el Servicio.
 
@@ -80,7 +80,7 @@ Para más información de las Cookies, por favor visite la sesión de Cookies en
 
 - **Para mantener o brindar nuestros Servicios:** Para monitorear el uso de nuestros Servicios.
 - **Para gestionar tu Cuenta dentro de Nami:** Para gestionar el registro como Usuario a nuestro Servicio. Los Datos Personales que proporcione el Usuario pueden darle acceso a diferentes funcionalidades del Servicio que están disponibles para el Usuario como Usuario registrado.
-- **Para asegurar la supervivencia de este contrato:** El desarrollo, cumplimiento y realización de los [términos de Servicios de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md) o de cualquier otro contrato con Nosotros a través de cualquiera de nuestro(s) Servicio(s).
+- **Para asegurar la supervivencia de este contrato:** El desarrollo, cumplimiento y realización de los [términos de Servicios de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md) o de cualquier otro contrato con Nosotros a través de cualquiera de nuestro(s) Servicio(s).
 - **Para contactarnos con el Usuario:** Para contactar por correo electrónico, llamadas telefónicas, SMS u otras formas equivalentes de comunicación electrónica, como notificaciones automáticas de una aplicación móvil sobre actualizaciones o comunicaciones informativas relacionadas con las funcionalidades, productos o Servicios contratados, incluidas las actualizaciones de seguridad, cuando sea necesario o razonable para su implementación.
 - **Para administrar las peticiones del Usuario:** Para administrar correctamente y personalizadamente todas las peticiones del Usuario.
 
@@ -98,7 +98,7 @@ La información del Usuario, incluidos sus Datos personales, se procesan en los 
 
 El consentimiento de esta Política de privacidad seguido del envío de dicha información representa el acuerdo con esa transferencia.
 
-El Equipo de Nami tomará todas las medidas razonablemente necesarias para [garantizar que los datos se traten de forma segura](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md) y de acuerdo con esta Política de privacidad y no se realizará ninguna transferencia de los datos personales a una organización o país que estén fuera del territorio de Chile a menos que existan controles adecuados establecidos, incluida la seguridad de los datos del Usuario y otra información personal del Usuario.
+El Equipo de Nami tomará todas las medidas razonablemente necesarias para [garantizar que los datos se traten de forma segura](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md) y de acuerdo con esta Política de privacidad y no se realizará ninguna transferencia de los datos personales a una organización o país que estén fuera del territorio de Chile a menos que existan controles adecuados establecidos, incluida la seguridad de los datos del Usuario y otra información personal del Usuario.
 
 ### 4. La divulgación de los datos personales del Usuario.
 
@@ -118,7 +118,7 @@ El Equipo de Nami puede divulgar los datos personales del/los Usuario(s) de buen
 - **Proteger al Usuario contra la responsabilidad legal.**
 
 ##### 4.4 La seguridad de los datos personales del Usuario
-Todos estos datos serán encontrados en la [Politica de Seguridad de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md).
+Todos estos datos serán encontrados en la [Politica de Seguridad de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md).
 
 ### 5. La privacidad los niños.
 ##### 5.1 El acceso de los niños
@@ -135,4 +135,4 @@ El Usuario es libre de obtener sus propios datos, esto usando el comando `/terms
 
 ### 7. Conexión con los Términos de Servicio de Nami
 ##### 7.1 Las conexiones
-Al brindar la privacidad del Usuario de una forma segura se están cumpliendo y haciendo visibles todos los términos estipulados en los [Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md), y estos están ligados totalmente con los [Términos de Servicio](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md), por lo cual de manera inmutable y permanente, estos están ligados con los [Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md).
+Al brindar la privacidad del Usuario de una forma segura se están cumpliendo y haciendo visibles todos los términos estipulados en los [Términos de Servicio de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md), y estos están ligados totalmente con los [Términos de Servicio](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md), por lo cual de manera inmutable y permanente, estos están ligados con los [Términos de Servicio de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md).

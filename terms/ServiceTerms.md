@@ -39,7 +39,7 @@ Se recomienda leer con detenimiento, por lo cual queda especificado que en este 
 
 Estos términos son válidos para cualquier Usuario, Visitante, Desarrollador, Programador o cualquier integrante del Staff de Nami, y son completamente inmutables en todo sentido para cualquier persona, sea la relación de la persona o su rol en Nami, este debe de respetar todos los lineamientos puestos en estos presentes términos.
 
-El Usuario al usar Apps de Nami acepta estos términos, y su [Tratamiento de Datos bajo los Términos de Privacidad de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md) dentro de estas propias Apps.
+El Usuario al usar Apps de Nami acepta estos términos, y su [Tratamiento de Datos bajo los Términos de Privacidad de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md) dentro de estas propias Apps.
 
 ### Sanciones y terminación del Servicio.
 Nosotros podemos suspender o terminar el Servicio inmediatamente para cualquier Usuario o Visitante, sin notificación alguna o con una notificación previa por cualquier razón, incluyendo una violación en cualquier cláusula de nuestros términos de Servicio.
@@ -101,7 +101,7 @@ El Usuario utilizará y se asegurará de que todos los Usuarios autorizados util
 
 ### 4. Acceso a tus datos.
 
-Todas las políticas de privacidad se encuentran en los [Términos de Privacidad de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md).
+Todas las políticas de privacidad se encuentran en los [Términos de Privacidad de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md).
 
 ### 5. Confidencialidad
 
@@ -127,7 +127,7 @@ El Usuario será el propietario de todos los derechos, títulos e intereses sobr
 
 ##### 6.2 Datos del Usuario e información del Provedor Licencia.
 
-Todos estos datos se encuentran en los [Términos de Privacidad de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md)
+Todos estos datos se encuentran en los [Términos de Privacidad de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md)
 
 ##### 6.3 Ningún otro derecho.
 
@@ -151,7 +151,7 @@ El Equipo de Nami declara y garantiza que prestará los Servicios Profesionales 
 Todas las disputas legales serán respecto a todas las leyes de Santiago, Chile.
 
 ### 10. Seguridad.
-Todos estos datos podrán ser encontrados en la [Política de Seguridad de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md)
+Todos estos datos podrán ser encontrados en la [Política de Seguridad de Nami](https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md)
 
 ### 11. Fuerzas mayores.
 El Equipo de Nami no es responsable de los retrasos o fallas en el desempeño por cualquier causa fuera de su control, incluidos, entre otros, actos de Dios, cambios en la ley o los reglamentos, embargos, guerra, actos terroristas, actos u omisiones de Provedores de tecnología de terceros, disturbios, incendios, terremotos, inundaciones, cortes de energía, huelgas, condiciones climáticas o actos de piratas informáticos, Provedores de Servicios de Internet o cualquier otro tercero o actos u omisiones del Usuario o cualquier Staff.

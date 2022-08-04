@@ -8,6 +8,6 @@
 <h3>Introducción</h3>
 <p><i><b>¡Bienvenido a los Términos y Condiciones de las *Aplicaciones de Nami!<br>En estos Términos y Condiciones daremos a conocer la estructura<br> de Seguridad y el como obtenemos y usamos tus Datos.<br></b></i></p><br><br>
 <h3>Mini indíce</h3>
-<b><p><a href="https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/README.MD">- Indice</a><a href="https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md"><br>- Politicas de Servicio</a><a href="https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md"><br>- Politicas de Seguridad</a><a href="https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md"><br>- Politicas de Privacidad</a></p></b><br><br><br><br><br><br><br><br><br>
+<b><p><a href="https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/README.MD">- Indice</a><a href="https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/ServiceTerms.md"><br>- Politicas de Servicio</a><a href="https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/SecurityTerms.md"><br>- Politicas de Seguridad</a><a href="https://github.com/FluffyWorkGroup/TerminosYCondicionesNami/blob/V1/terms/PrivacyTerms.md"><br>- Politicas de Privacidad</a></p></b><br><br><br><br><br><br><br><br><br>
 <i>*Con esto nos referimos a todos los servicios de Nami proporciona, como lo serían bases de datos, servidores, APIS, bots de Discord y etc.</i>
 </div>
