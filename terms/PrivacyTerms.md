@@ -87,7 +87,7 @@ Para más información de las Cookies, por favor visite la sesión de Cookies en
 ##### 2.2 Compartiremos los datos personales del Usuario en las siguientes situaciones:
 Nunca, en los términos normales exceptuando si tenemos que cumplir con nuestras obligaciones legales, resolver disputas y hacer cumplir nuestros acuerdos y políticas legales estos solo siendo compartidos con las autoridades pertinentes y nunca por ningún tercero.
 
-### 3. La conversación de los datos personales del Usuario.
+### 3. La conservación de los datos personales del Usuario.
 
 ##### 3.1 La preservación de los datos personales del Usuario en nuestras bases de Datos
 

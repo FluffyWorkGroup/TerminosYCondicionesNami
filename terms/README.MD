@@ -38,3 +38,23 @@
 - [**2. Tecnología de terceros**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#2-tecnologías-de-terceros-de-seguridad)
 - [**3. Descargos de Responsabilidad**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#3-descargos-de-responsabilidad-en-cuanto-a-seguridad)
 - [**4. Conexión con los Términos de Servicio**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/SecurityTerms.md#4-conexión-con-los-términos-de-servicio-de-nami)
+
+<br><br>
+
+### [Politica de Privacidad](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md)
+- [**Interpretación**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#interpretación)
+- [**Definiciones**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#definiciones)
+- [**Introducción**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#introducción)
+- [**1. ¿Cómo guardamos y usamos tus datos personales?**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#1-cómo-guardamos-y-usamos-tus-datos-personales)
+- [**2. Maneras en la que usamos la información personal del usuario**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#2-maneras-en-las-que-usamos-la-información-personal-del-usuario)
+- [**3. La conservación de la información personal del usuario**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#3-la-conservación-de-los-datos-personales-del-usuario)
+- [**4. La divulgación de los datos personales del usuario**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#4-la-divulgación-de-los-datos-personales-del-usuario)
+- [**5. La privacidad de los niños**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#5-la-privacidad-los-niños)
+- [**6. Opciones del usuario**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#6-opciones-del-usuario)
+- [**7. Conexión con los términos de Servicio**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/PrivacyTerms.md#7-conexión-con-los-términos-de-servicio-de-nami)
+
+
+---
+
+
+<div align="center"><h4>Ultima actualización: 4 de Agosto del 2022<h4></div>
