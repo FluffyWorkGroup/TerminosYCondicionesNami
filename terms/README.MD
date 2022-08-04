@@ -21,7 +21,6 @@
 - [**6. Derechos de autor**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#6-derechos-de-autor)
 - [**7. Garantías y descargos de Responsabilidad**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#7-garantías-y-descargos-de-responsabilidad)
 - [**8. Limitaciones de Responsabilidad**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#8-limitaciones-de-responsabilidad)
-
 - [**9. Disputas legales**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#9-disputas-legales)
 - [**10. Seguridad**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#10-seguridad)
 - [**11. Fuerzas mayores**](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#11-fuerzas-mayores)
