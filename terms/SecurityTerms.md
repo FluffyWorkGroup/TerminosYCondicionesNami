@@ -8,7 +8,7 @@ Todas las palabras y frases que inicien con una letra mayúscula se refieren a u
 
 - Las palabras ***`Dependencia(s)`*** hacen referencia a todos los paquetes (Código público que sirve para estructuración de datos ya presentes o para la agilización de datos) utilizados en las versiones anteriores o presentes de cualquiera de las Apps de Nami.
 
-- Las palabras ***`Database(s)`*** hacen referencia a las 2 bases de datos que sirven para el funcionamiento continúo de Nami, ya sea Firebase como base de datos principales y real-time Database como caché.
+- Las palabras ***`Database(s)`*** hacen referencia a las 2 bases de datos que sirven para el funcioNamiento continúo de Nami, ya sea Firebase como base de datos principales y real-time Database como caché.
 
 - Las palabras ***`Algoritmos(s)`*** hacen referencia a toda la cadena de procesos que se utilizan para la agilización de datos de Nami, así como su seguridad.
 
@@ -43,14 +43,14 @@ Nuestros sitios webs, al ser hosteados directamente en Servidores con control to
 Todos nuestros sitios webs están protegidos en su totalidad por [CloudFare](https://www.cloudflare.com) y se adecúan a sus sistemas de seguridad que realmente forman parte de la información confidencial de Nami.
 
 ##### 2.3 La seguridad de nuestras *Dependencias*
-Nosotros, estamos constamente enfocados en las brechas de seguridad de nuestras Dependencias, así como en la seguridad de nuestros servicios, por lo cual nos esforzamos en brindar un sistema de seguridad que nos permita asegurar que nuestras Dependencias sean seguras y no sean manipuladas por terceros.
+Nosotros, estamos constamente enfocados en las brechas de seguridad de nuestras Dependencias, así como en la seguridad de nuestros Servicios, por lo cual nos esforzamos en brindar un sistema de seguridad que nos permita asegurar que nuestras Dependencias sean seguras y no sean manipuladas por terceros.
 
 Todo esto con un Equipo que se encarga automáticamente de actualizar las Dependencias de Nami, para que estas brechas de seguridad sean más fáciles de detectar y solucionar, todo esto usando el sistema de seguridad de Nami.
 ### 3. Descargos de responsabilidad en cuanto a Seguridad.
 ##### 3.1 Tú seguridad no es la misma que nuestra seguridad.
-Nosotros nos comprometemos en brindar la mayor seguridad en nuestros servicios, pero nosotros no nos hacemos cargo si de alguna manera se tratan de romper los acuerdos de [Limitaciones de Software](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#31-restricciones-de-software) bajo herramientas de terceros u usando las herramientas de Desarrollador del navegador web, por lo cual esto si se llega a presentar una queja, no tiene nada que ver con nosotros.
+Nosotros nos comprometemos en brindar la mayor seguridad en nuestros Servicios, pero nosotros no nos hacemos cargo si de alguna manera se tratan de romper los acuerdos de [Limitaciones de Software](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#31-restricciones-de-software) bajo herramientas de terceros u usando las herramientas de Desarrollador del navegador web, por lo cual esto si se llega a presentar una queja, no tiene nada que ver con nosotros.
 
-##### 3.2 En caso de infección de malware usando nuestros servicios.
+##### 3.2 En caso de infección de malware usando nuestros Servicios.
 El reporte será válido solo si el contenido es realmente del Código interno de Nami, por lo cual el contenido puesto por terceros ya sean Usuarios como se dice en la [cláusula de responsabilidad de contenido de los Términos de Servicio de Nami](https://github.com/Kisu-s-fluff-workgroup/TerminosYCondicionesNami/blob/V0/terms/ServiceTerms.md#el-contenido) cualquier contenido subido por Usuarios, no será responsabilidad del Staff de Nami.
 
 La única acción pertinente que será hecha será la eliminación de la Cuenta permanentemente del Usuario que suba malware usando cualquiera de las Apps de Nami.
